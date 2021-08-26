@@ -1,2 +1,1 @@
-# web-boilerplate
-Basic Web Boilerplate Code
+# Web Boilerplate Code
